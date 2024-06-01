@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "1330849547125.6733",
+      "name": "Nithin Raj M",
+      "email": "nithin@gmail.com",
+      "password": " "
+    },
+    {
+      "id": "1564462828944.9949",
+      "name": "Nithin Raj",
+      "email": "nithirag@gmail.com",
+      "password": "78945612"
+    }
+  ],
+
+  "notes": [
+    {
+      "id": "155434",
+      "userId": 1564462828944.9949,
+      "title": "note 1",
+      "note": "note content 1"
+    },
+    {
+      "id": 1031245656050.2045,
+      "userId": 1330849547125.6733,
+      "title": "werwe",
+      "note": "werwerwer"
+    },
+    {
+      "id": 74100566506.95056,
+      "userId": 1330849547125.6733,
+      "title": "asdasd",
+      "note": "asdasd"
+    },
+    {
+      "id": 1322456608022.873,
+      "userId": 1330849547125.6733,
+      "title": "wwww",
+      "note": "wadasdqwdas"
+    },
+    {
+      "id": 66183253322.31525,
+      "userId": 1330849547125.6733,
+      "title": "ssssss",
+      "note": "sdfdf"
+    }
+  ]
+}
